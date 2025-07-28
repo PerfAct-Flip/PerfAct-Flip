@@ -1,10 +1,10 @@
 # Soham Sinha 👋
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU4cnM1czU3Y2pvaHBuZGJrM2lvdW5yY3JhbDNmeWZtcGhydGU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Anime Coding GIF" width="400"/>
+  <img src="Coding The Matrix GIF.gif" alt="Anime Coding GIF" width="400"/>
 </p>
 
-💻 A 2nd Year B.Tech student at IPEC, Ghaziabad, specializing in Computer Science and Engineering (AI & ML).
+💻 A 3rd Year B.Tech student at IPEC, Ghaziabad, specializing in Computer Science and Engineering (AI & ML).
 Passionate web developer and technical leader, diving deep into the MERN stack to build impactful real-world projects. Always learning, always building, and committed to creating user-focused web solutions.
 
 ---
